@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
     name="potter_spells",
-    version="1.0.0",
+    version="1.0.1",
     author="Vibhu Agarwal",
     author_email="vibhu4agarwal@gmail.com",
     description="A python package to list all Harry Potter spells",
