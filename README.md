@@ -13,6 +13,7 @@ pip install potter_spells
 ```
 >>> import potter_spells as potter
 >>> potter.all_data()
+>>> potter.find('Avada Kedavra')
 ```
 
 ### List out all Spells or Enchantments
