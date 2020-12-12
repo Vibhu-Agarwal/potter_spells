@@ -28,3 +28,5 @@ pip install potter_spells
 >>> potter.spells_by_type('Hex')
 >>> potter.enchants_by_type('Charm')
 ```
+
+### Like to contribute to the project refer to [Contribution guidelines](CONTRIBUTING.md)
