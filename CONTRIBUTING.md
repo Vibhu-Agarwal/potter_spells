@@ -25,7 +25,8 @@ git checkout -b 'branch-name'
 
 ## Commit
 - Commit the changes to the new branch using command 
-```git commit -m 'message'
+```
+git commit -m 'message'
 ```
 
 ## Push changes
