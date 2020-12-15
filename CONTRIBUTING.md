@@ -3,7 +3,7 @@
 **First of all thanks for taking time and interest in the project 👍**
 
 ## First time Contributors
-If you're new to open source and don't know how to contribute to open source projects then check out this [link](https://github.com/firstcontributions/first-contributions) 
+If you're new to open source and don't know how to contribute to open-source projects then check out this [guide-project](https://github.com/firstcontributions/first-contributions) 
 
 **If you want to contribute start with [git](https://git-scm.com/) by installing it on your machine**
 
