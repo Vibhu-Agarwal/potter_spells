@@ -38,4 +38,4 @@ git push origin master
 ## Compare and Pull Request
 - Compare the branches and start a Pull Request to merge the changes in the master branch
 
-## You contributed to the project Congrats on your contribution 🎉
+## You contributed to the project. Congrats on your contribution 🎉
