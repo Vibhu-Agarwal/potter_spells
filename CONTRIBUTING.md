@@ -31,4 +31,5 @@ git push origin master
 ## Compare and Pull Request
 - Compare the branches and start a Pull Request to merge the changes in the master branch
 
-## You contributed to the project. Congrats on your contribution 🎉 and welcome to Open Source 
+## Welcome to Open Source 🎉
+- You did it,contributed to an Open Source Project.Welcome to the Open Source Culture 🙌.Congrats on your Pull Request getting merged into the codebase.
